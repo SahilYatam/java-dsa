@@ -1,0 +1,14 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Compiled Java files
+*.class
+out/
+
+# Maven build output
+target/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
